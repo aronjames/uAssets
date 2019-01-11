@@ -105,11 +105,15 @@ Github
 		_ 1st-party script
 		_ githubapp.com *
 		_ githubusercontent.com *
+		_ githubassets.com *
+		_ githubassets.com script
 		! Required for raw/diff view of some files (e.g. pictures, pdf, svg)
 		_ render.githubusercontent.com script
 		_ render.githubusercontent.com frame
 		_ raw.githubusercontent.com *
 		_ raw.githubusercontent.com xhr
+		! Required for previews of some files (e.g. ipynb)
+		_ github-render.s3.amazonaws.com xhr
 		! Required for uploading pictures in comments
 		_ github-production-user-asset-6210df.s3.amazonaws.com xhr
 		! Required for uploading other files in comments
