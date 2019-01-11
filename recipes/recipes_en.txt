@@ -271,6 +271,7 @@ Slack
 		_ 1st-party script
 		_ slack-edge.com *
 		_ slack-edge.com script
+		_ slack-edge.com frame
 		_ slack-msgs.com *
 
 Soundcloud
