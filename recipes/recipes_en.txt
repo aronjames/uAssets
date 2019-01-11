@@ -361,6 +361,8 @@ Youtube with account
 		_ googlevideo.com xhr
 		_ ytimg.com *
 		_ ytimg.com script
+		_ ggpht.com image
+		_ googleusercontent.com image
 		accounts.google.com 1st-party *
 		accounts.google.com 1st-party cookie
 		accounts.google.com gstatic.com *
@@ -385,3 +387,6 @@ Youtube (nocookie) as 3rd-party
 		_ googlevideo.com xhr
 		_ ytimg.com *
 		_ ytimg.com script
+		_ ggpht.com image
+		_ googleusercontent.com image
+
