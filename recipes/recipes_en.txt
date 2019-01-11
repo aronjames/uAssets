@@ -16,6 +16,11 @@
 		_ 4cdn.org *
 		_ 4cdn.org script
 
+Algolia as 3rd-party
+	* algolia.net
+		_ algolia.net *
+		_ algolianet.com *
+
 Apple Mapkit as 3rd-party
 	* apple-mapkit.com
 		_ apple-mapkit.com *
